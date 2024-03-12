@@ -1,0 +1,485 @@
+
+/* ghh */
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing:border-box;
+
+}
+
+
+@media screen and (min-width:1245px) {
+   
+
+   
+
+    .ls-layer img {
+        /* object-fit: cover; */
+        width:100% !important;
+        height:100% !important;
+    }
+}
+
+
+@media screen and (max-width:600px) {
+    .Gleaming_p {
+        padding-top: 0px !important;
+    }
+     .Gleaming_h1{
+        font-size: 22px;
+     }
+    .Gleaming_12{
+        width: 100%;
+        margin-left: 0px !important;
+         padding: 0px 20px 0px 20px;
+    }
+    .Marketing_Services_flex{
+        flex-direction: column;
+        gap:1px ;
+    }
+
+    .ompetitor_top{
+        width: 100%;
+        margin-left: 0px !important;
+        /* padding: 0px 20px 0px 20px; */
+
+        
+
+    }
+    .ompetitor_so{
+        padding: 0px 20px 0px 20px;
+
+    }
+
+    .section_4_top{
+        width: 100%;
+        margin-left: 0px !important;
+        text-align: center !important;
+        /* padding: 0px 20px 0px 20px; */
+
+        
+
+    }
+
+    .section_4_top p{
+        text-align: center !important;
+    }
+    .asret {
+    /* text-align: center !important; */
+    padding-left: 20px;
+    }
+
+    .shouldn_b  p{
+        text-align: center;
+        width: 100%;
+        margin-left: 0px !important;
+        padding: 0px 20px 0px 20px;
+
+    }
+
+    .Marketing_Solutions_top p{
+        text-align: center !important;
+    }
+
+   
+    .section_4_top h2 {
+        font-size: 22px;
+    }
+
+    .section_4_topp{
+        width: 100%;
+        margin-left: 0px !important;
+        padding: 0px 20px 0px 20px;
+
+    }
+
+
+    .Marketing_Services_flex{
+        gap: 0px !important;
+            
+    }
+
+    .shouldn_b {
+        margin-left: 0px !important;
+        padding: 0px 20px 0px 20px;
+
+    }
+
+
+    .card_section_5_main{
+        flex-wrap: wrap;
+        /* flex-direction: column; */
+       }
+
+       .Marketing_Solutions_top{
+        width: 100%;
+        margin-left: 0px !important;
+        padding: 0px 20px 0px 20px;
+
+
+       }
+
+       .Marketing_Solutions_top h2{
+        font-size: 22px;
+       }
+
+       .section_4_flex {
+        flex-wrap: wrap;
+
+    }
+
+    .card_section_5_gleaming_main {
+        width: 100%;
+        margin-left: 0px !important;
+        /* margin-right: 15px !important; */
+        /* padding-right: 10px !important; */
+        padding: 0px 20px 0px 20px;
+
+
+    }
+
+}
+
+@media screen  and (max-width:991px){
+    .Marketing_Services_flex{
+        flex-wrap: wrap;
+    
+
+    }
+
+    .asret{
+        margin-bottom: -22px !important;
+
+    }
+
+    /* .asert12{
+        margin-top: -140px !important;
+    } */
+
+    .envor-feature header {
+        /* line-height: 25px !important;
+        font-size: 20px !important; */
+    }
+}
+
+@media screen and (min-width:576px) and (max-width:991px) {
+    .envor-feature header {
+        line-height: 25px !important;
+        font-size: 20px !important;
+    }
+}
+
+ 
+    
+    @media screen  and (max-width:991px) {
+        .card_section_5_main{
+            flex-wrap: wrap;
+            /* flex-direction: column; */
+           }
+
+
+           .card_section_5_main1{
+            flex-wrap: wrap;
+            /* flex-direction: column; */
+           }
+
+           .Marketing_Services_flex {
+              gap: 30px !important;
+           }   
+       
+    }
+      .shouldn_b p{
+        /* width: 44em !important; */
+      }
+
+      .envor-feature header {
+        line-height: 24px !important;
+      }
+
+
+   .glyphicon {
+    padding-bottom: 10px;
+   }
+
+
+   /* .layeder_slider{
+    max-width: 1440px !important;
+    width: 100% !important;
+    display: block !important;
+    margin: auto !important;
+   } */
+  /* section-2 */
+/* 
+.Gleaming_flex{
+    display: flex;
+    justify-content: center;
+
+    text-align: center;
+    flex-direction: column;
+   
+} */
+
+
+.envor-feature, .envor-feature-2{
+    padding-bottom: 15px !important;
+}
+
+.Gleaming_12{
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 60px;
+    /* margin-top: 40px; */
+    
+}
+
+.Gleaming_h1 {
+    text-align: center;
+    padding-top: 20px !important;
+}
+
+.Gleaming_p{
+     text-align: justify;  
+     max-width: 1440px;
+     width: 100%;
+     margin: auto; 
+     display: block; 
+      padding-top: 20px;
+
+}
+.Gleaming_12_hr hr{
+    border: 2px solid yellowgreen;
+   
+}
+
+/* .glyphicon_marketing_logo_1{
+    padding-right: 20px;
+} */
+
+.asret span{
+    padding-left: 10px;
+}
+
+
+/* section3 */
+.ompetitor_so{
+   
+ /
+    
+    
+}
+
+.ompetitor_top{
+
+    background-image: url(img/orangeBk.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+ 
+
+  
+    
+}
+.ompetitor_so{
+    /* max-width: 1440px;
+    width: 100%;
+    margin: auto;
+    display: block;  */
+   
+}
+
+.comp_t{
+ background-color:rgba(0,0,0,0.6);
+    margin: 20px;
+    padding: 24px;
+   
+    
+}
+.comp_tpo{
+    max-width: 1440px;
+    width: 100%;
+    margin: auto;
+    display: block;
+}
+.comp_tpo p {
+
+
+}
+
+
+.comp_ty {
+    font-size: 24px;
+    color: #fff;
+
+}
+.foog{
+    text-decoration: none;
+    font-size: 22px;
+    color: #ffcb00;
+}
+
+.ompetitor_flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    text-align: left;
+}
+
+/* section4 */
+
+.section_4_top h2{
+    padding-bottom: 20px;
+}
+.section_4_main{
+    max-width: 1440px;
+    width: 100%;
+    margin: auto;
+    display: block;
+
+
+}
+.section_4_flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.dvertising_p{
+    padding-top: 20px;
+}
+.section_4_top{
+    margin-left: 100px;
+    margin-right: 100px;
+     margin-top: 30px; 
+}
+.section_4_topp{
+    margin-left: 100px;
+    margin-right: 100px;
+     /* margin-top: 60px;  */
+}
+.erA{
+    font-size: 22px;
+    font-weight: bold;
+    font-family: 'Glyphicons Halflings';
+    top: 1px;
+    line-height: 1;
+}
+.section_4_top p{
+    text-align: start;
+}
+
+.dvertising_p_e{
+    padding-top: 20px;
+}
+
+.Marketing_Services_flex{
+    display: flex;
+    justify-content: start;
+    text-align: start;
+    gap: 200px;
+    
+}
+
+.shouldn_b p{
+    text-align: start;
+    padding-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+/* section5 */
+.section_5_main{
+    max-width: 1440px;
+    width: 100%;
+    margin: auto;
+    display: block;
+
+}
+.Gleaming_img{
+    background-color:red;
+    padding: 10px;
+}
+.Gleaming_img {
+   
+   
+   
+    color: #fff;
+    font-size: 32px;
+  
+  
+  
+}
+
+.Gleaming_flex1{
+    display: flex;
+    gap: 20px;
+    padding-bottom: 10px;
+
+}
+.Marketing_Solutions_flex{
+    display: flex;
+    flex-direction: column;
+}
+
+.Marketing_Solutions_top{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 60px;
+}
+.Marketing_Solutions_top h2{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.Marketing_Solutions_top p{
+    text-align: start;
+    /* width: 81em; */
+}
+
+/* ///////////////// */
+.card_section_5_gleaming_main{
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 60px;
+}
+
+.card_section_5_gleaming_flex{
+    display: flex;
+    flex-direction: column;
+}
+.card_section_5_main{
+    display: flex;
+    gap: 30px;
+    text-align: start;
+}
+
+.card_section_5_main1{
+    display: flex;
+    gap: 30px;
+    text-align: start;
+    margin-top: 70px;
+}
+
+
+
+
+
+.detalis_geamings_a{
+    padding-top: 30px;
+}
+
+
+
+
+
+
+
+.glyphicon:empty {
+    width: 1em;
+    /* padding-right: 20px  */
+}
+
